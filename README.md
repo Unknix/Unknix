@@ -1,7 +1,7 @@
 ### Hi there, I'm VSKO16 👋
 
 
-- 🔭 I’m currently working on InviteCanay with other developers.
+- 🔭 I’m currently working on InviteCanary with other developers.
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about everything.
 - 👯 I’m looking to collaborate with other developers.
