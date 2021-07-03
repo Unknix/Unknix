@@ -33,4 +33,4 @@
 <img align="left" alt="VSKO16 Github Stats" src="https://github-readme-stats.vercel.app/api?username=VSKO16&show_icons=true&hide_border=true&theme=radical" />
 
 [twitter]: https://twitter.com/VSKO16
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954)](https://discord.com/users/314812085013970954)
