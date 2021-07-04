@@ -8,11 +8,6 @@
 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/d2r60q21svw8249yvy9vw5ovv)
-<div align="center">
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954)](https://discord.com/users/314812085013970954)
-
-</div>
 
 ### Languages and Tools:
 
