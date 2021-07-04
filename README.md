@@ -1,19 +1,18 @@
 ### Hi there, I'm VSKO16 👋
 
 
-- 🔭 I’m currently working on InviteCanary with other developers.
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about everything.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me : Discord/Twitter 
 
-### Connect with me:
-
-[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/d2r60q21svw8249yvy9vw5ovv)
+<div align="right">
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954)](https://discord.com/users/314812085013970954)
+
+</div>
 
 ### Languages and Tools:
 
@@ -32,8 +31,4 @@
 <img align="left" alt="VSKO16 Github Stats" src="https://github-readme-stats.vercel.app/api?username=VSKO16&show_icons=true&hide_border=true&theme=radical" />
 
 
-<div align="right">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954)](https://discord.com/users/314812085013970954)
-
-</div>
