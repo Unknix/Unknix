@@ -1,14 +1,14 @@
 <h1><img src="https://media.discordapp.net/attachments/696047113301131267/861980219027488838/xati_6.gif" width="30"/>  Hi there, I'm VSKO16 👋</h1>
 
 
-
+<img align="right" alt="VSKO16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rytez&theme=tokyonight&show_icons=true&hide_border=true" />
 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about everything.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me : Discord/Twitter 
 
-
+---
  <a href="https://github.com/VSKO16">
 
 
