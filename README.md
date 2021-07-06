@@ -1,7 +1,7 @@
 <h1><img src="https://media.discordapp.net/attachments/696047113301131267/861980219027488838/xati_6.gif" width="30"/>  Hi there, I'm VSKO16 👋</h1>
 
 
-<img align="right" alt="VSKO16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rytez&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="right" alt="VSKO16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vsko16&theme=tokyonight&show_icons=true&hide_border=true" />
 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about everything.
@@ -19,8 +19,6 @@
 
 ---
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/d2r60q21svw8249yvy9vw5ovv)
-### Connect with me:
-
 
 
 ## My Skill Set  
