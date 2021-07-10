@@ -21,7 +21,7 @@
 
 
 
-<img align="right" alt="VSKO16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vsko16&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="left" alt="VSKO16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vsko16&theme=tokyonight&show_icons=true&hide_border=true" />
 
 <div align="right">
   
