@@ -25,8 +25,8 @@
 
 <div align="right">
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954)](https://discord.com/users/314812085013970954)
-  
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954?theme=light&bg=809ecf&animated=true&hideStatus=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/314812085013970954)  
 </div>
 
 
