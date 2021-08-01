@@ -1,5 +1,5 @@
 <h1><img src="https://media.discordapp.net/attachments/696047113301131267/861980219027488838/xati_6.gif" width="30"/>  Hi there, I'm VSKO16 👋</h1>
- 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=vsko16" alt="yus" /> </p>
 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about everything.
@@ -8,6 +8,7 @@
 
 
 ---
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954?theme=light&bg=809ecf&animated=true&hideStatus=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/314812085013970954)
 
  <a href="https://github.com/VSKO16">
 
@@ -21,13 +22,11 @@
 
 
 
-<img align="left" alt="VSKO16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vsko16&theme=tokyonight&show_icons=true&hide_border=true" />
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-js-dev&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsko16&show_icons=true&theme=dark&line_height=21" alt="VSKO16's Github Stats"/>
 
-<div align="right">
-  
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954?theme=light&bg=809ecf&animated=true&hideStatus=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/314812085013970954)  
-</div>
 
 
 ## My Skill Set  
