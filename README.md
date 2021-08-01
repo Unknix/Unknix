@@ -1,5 +1,4 @@
 <h1><img src="https://media.discordapp.net/attachments/696047113301131267/861980219027488838/xati_6.gif" width="30"/>  Hi there, I'm VSKO16 👋</h1>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=vsko16" alt="yus" /> </p>
 
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about everything.
@@ -7,18 +6,18 @@
 - 📫 How to reach me : Discord/Twitter 
 
 
----
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/314812085013970954?theme=light&bg=809ecf&animated=true&hideStatus=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/314812085013970954)
+
+---------
 
  <a href="https://github.com/VSKO16">
 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
+  <img src="https://profile-counter.glitch.me/vsko16/count.svg" />
 </p>
 
----
+------
 
 
 
