@@ -4,18 +4,7 @@
 - 💬 Ask me about everything.
 - 👯 I’m looking to collaborate with other developers.
 - 📫 How to reach me : Discord/Twitter 
-
-
-
----------
-
- <a href="https://github.com/VSKO16">
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vsko16/count.svg" />
-</p>
+-  I live and study in Lille (France)
 
 ------
 
