@@ -1,38 +1,52 @@
-<h1><img src="https://media.discordapp.net/attachments/696047113301131267/861980219027488838/xati_6.gif" width="30"/>  Hi there, I'm VSKO16 👋</h1>
-
-- 🌱 I’m currently learning everything.
-- 💬 Ask me about everything.
-- 👯 I’m looking to collaborate with other developers.
-- 📫 How to reach me : Discord/Twitter 
--  I live and study in Lille (France)
-
-------
-
-
+<a href="">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=ea74d0&text=VSKO16&descAlignY=47&descAlign=50&desc=Developer" />
+</a>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-js-dev&show_icons=true&layout=compact&hide_border=true&theme=dark" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsko16&show_icons=true&theme=dark&line_height=21" alt="VSKO16's Github Stats"/>
+  👋 Hi there, I'm VSKO16 👋
+</p>
+<p align="center">
+  💻 A French Front-End Developer 💻
+</p>
+<p align="center">
+ 🌱 I’m currently learning everything.🌱
+</p>
+<p align="center">
+ 💬 Ask me about everything. 💬 
+</p>
+<p align="center">
+ 👯 I’m looking to collaborate with other developers.👯
+</p>
+<p align="center">
+ 📫 How to reach me : Discord/Twitter 📫
+</p>
+
+<br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VSKO16&show_icons=true&theme=jolly&hide_border=0" />
+</p>
 
 
 
+------
+<p align="center">
+   𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭 
+</p>
 
-## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 
 
-
-### Frontend  
+<p align="center">
+   𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 
+</p> 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -40,8 +54,9 @@
 
 </td><td valign="top" width="33%">
 
-
-### Backend  
+<p align="center">
+   𝐁𝐚𝐜𝐤𝐞𝐧𝐝 
+</p>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -53,8 +68,9 @@
 
 </td><td valign="top" width="33%">
 
-
-### DevOps  
+<p align="center">
+   𝐃𝐞𝐯𝐎𝐩𝐬
+</p>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
