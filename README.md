@@ -1,5 +1,5 @@
 <a href="">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=ea74d0&text=VSKO16&descAlignY=47&descAlign=50&desc=Developer" />
+  <img align="center" src="https://cdn.discordapp.com/attachments/754092548737466388/1086119372789137509/red5.gif" />
 </a>
 
 <p align="center">
@@ -7,10 +7,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VSKO16&show_icons=true&theme=jolly&hide_border=0" />
-</p>
 
 
 
